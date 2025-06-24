@@ -18,7 +18,7 @@
 - 👨‍💻​ computer engineering student focused in Web Development
 - 🔭 I’m currently working on Gesitech Chile
 - 🌱 I’m currently learning Mobile Development, other programming languages and a little of Linux
-- 📫 how to reach me: **br.molina.gonzalez@gmail.com**
+- 📫 how to reach me: **bryan.molina@gesitechchile.cl**
 
 <br><br>
 <br><br>
